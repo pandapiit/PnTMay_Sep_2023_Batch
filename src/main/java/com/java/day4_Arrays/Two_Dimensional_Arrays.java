@@ -1,4 +1,4 @@
-package com.java.day4;
+package com.java.day4_Arrays;
 
 public class Two_Dimensional_Arrays {
 	// [][]
